@@ -1,0 +1,19 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "<SEU_TEAM_ID_DA_APPLE>.com.consigoapp",
+                "paths": [
+                    "/routine/*"
+                ]
+            },
+            {
+                "appID": "<SEU_TEAM_ID_DA_APPLE>.br.com.flouxdigital.consigo.dev",
+                "paths": [
+                    "/routine/*"
+                ]
+            }
+        ]
+    }
+}
