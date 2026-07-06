@@ -8,7 +8,7 @@
             "package_name": "com.consigoapp",
             "sha256_cert_fingerprints": [
                 "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
-                "COLOQUE_AQUI_O_SHA256_DE_PRODUCAO_OBTIDO_NO_EAS"
+                "12:CD:41:0E:50:72:51:7A:20:4F:70:56:EF:CB:9E:BF:C3:43:DE:C8:7F:A6:1F:71:14:9F:54:13:0B:E8:86:11"
             ]
         }
     },
@@ -20,7 +20,8 @@
             "namespace": "android_app",
             "package_name": "br.com.flouxdigital.consigo.dev",
             "sha256_cert_fingerprints": [
-                "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+                "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C",
+                "12:CD:41:0E:50:72:51:7A:20:4F:70:56:EF:CB:9E:BF:C3:43:DE:C8:7F:A6:1F:71:14:9F:54:13:0B:E8:86:11"
             ]
         }
     }
